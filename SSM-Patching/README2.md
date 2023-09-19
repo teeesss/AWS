@@ -1,3 +1,5 @@
+# Slack Lamba Notifications Trigger & Authentication for SSM Windows Patching
+
 ### Custom Credentials vs AWS IAM User Accounts for Slack commands
 
 -    AWS User Accounts: You can use AWS Identity and Access Management (IAM) to manage user accounts and access permissions within the AWS ecosystem. This is suitable for authenticating users for AWS services and resources, such as AWS Console access and AWS APIs.
