@@ -1,4 +1,4 @@
-# Slack Lamba Notifications Trigger & Authentication for SSM Windows Patching
+## Slack Lamba Notifications Trigger & Authentication for SSM Windows Patching
 
 ### Custom Credentials vs AWS IAM User Accounts for Slack commands
 
