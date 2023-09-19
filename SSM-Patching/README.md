@@ -1,4 +1,4 @@
-## Automating SSM Patch Management for Windows with <br>Compliance Checks in AWS displaying via Slack
+## SSM Patch Management for Windows with Compliance Checks in AWS displaying via Slack
 
 ### Automating Patch Management and Compliance Checks in AWS
  - Automating the installation of patches and ensuring compliance across your AWS instances is crucial for maintaining security and system stability.
